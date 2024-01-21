@@ -1,0 +1,105 @@
+ 
+:root{
+    --Makborder:2px solid rgb(196, 41, 196);
+    --Makborder2:1px solid rgb(9, 8, 9);
+    --BorderRad:0px;
+     
+}
+.makeAllBorder{border:var(--Makborder)}
+.border0{border-radius: var(--BorderRad);
+         border: var(--Makborder2);}
+
+ 
+ 
+/*----------------------------- navbar ---------------------------------------------------*/
+
+.navbar{background-color: rgb(165, 42, 42);height: 10vh;}
+.nav-item a{color: white;margin-left: 20px;font-weight: bolder;}
+.mKe{background-color: orange;color: white;}
+.spoon{color: orange;font-size: 35px;}
+.logos{font-weight: bold;color: orange;font-size: 30px;}
+.Home a{color: orange;}
+.nav-item button:hover{background-color: black;color: white;}
+
+
+/*--------------------------------------- banner ---------------------------------------------*/
+
+ .EnjoyMeal,.deleciOu{font-size: 70px;color: white;}
+ .banner{background-color: brown;min-height: 90vh;}
+ .piop img{width: 100%;}
+ .banner p{color: white;}
+ .jima{border-radius: 0px!important;padding: 15px 50px;}
+ .jima:hover{background-color: rgb(0, 0, 0);color: rgb(255, 248, 248);}
+
+
+ /*-------------------------------------- card section ----------------------------------------*/
+ .cardSection{
+    min-height: 90vh;
+ } 
+ .fontMak{
+     font-size: 50px;margin-top: 20px;margin-left: 20px;color: orange;margin-bottom: 1px;
+ }
+ .card{box-shadow: 0px 0px 4px black;width: 200px;margin-right: 10px;}
+ .card:hover{background-color: black;color: white;}
+
+
+  /*---------------------------------- zigzag image section --------------------------------*/
+ 
+  
+  
+  .zigzagCon img{width: 100%;}
+  .aboHr{display: flex;align-items: center;;}
+  .aboL{margin-right: 10px;color: orange;}
+  .smallWrapper{display: flex;}
+  .item1{font-size: 50px; color: orange;margin-right: 10px;margin-left: 4px;
+        font-weight: bolder;}
+  .exp{margin-top: -20px;font-weight: bolder;font-size: 22px;}
+  .spanc{margin-left: 30px;border-left: 4px solid orange;}
+ 
+  .readMo:hover{background-color: black;color: white;}
+  .car{margin-left: -5px;}
+  .jio{font-size: 18px;}
+  .item2{display: flex;flex-direction: column;justify-content: center;margin-top: 14px;}
+ .itemWr:hover{background-color: black;color: white;}
+
+  /*------------------------------------- menus section -------------------------------*/
+ 
+ .PopularSec{min-height:20vh;}
+ .fooText{font-size: 25px; color: orange;font-family: cursive;margin: 0px 10px;}
+ .popTex{font-size: 40px;font-weight: bolder;}
+ .fooWra{display: flex;justify-content: center;align-items: center;}
+ .hrMaksmall{width: 10%;height: 1px;border: 2px solid orange;background-color: red;opacity: 1;}
+ 
+
+ .cupItem{min-height: 20vh;}
+ .minWrapper{display: flex;}
+
+ .teaCon{display: flex;justify-content: center;width: 180px;height: 70px;}
+ .teaCon:hover{border-bottom: 2px solid red;}
+ .fa-mug-hot,.fa-burger,.jok{font-size: 40px;color: orange;}
+ .textW p{margin: 0px;}
+ .textW .brakT{font-weight: bolder;}
+
+ .menuSmImage{width: 120px;}
+ .menuSmImage img{width: 100%;}
+ .menuWrap{display: flex;flex-direction: column;justify-content: space-between;}
+ .chicken{font-weight: bolder;font-size: 20px;}
+ .doller{font-size: 22px;color: orange;font-weight: bolder;}
+
+
+ /* footer section */
+ .footer{height: 90vh;}
+ .imagMet{display: flex;align-items: center;justify-content: center;margin-bottom: 20px;}
+ .imagMet img{width: 100%;}
+
+.rights{height: 100%;}
+ .Reservation{color: orange;}
+ .formCo{background-color: rgb(15, 23, 42);}
+ .tableNo{color: white;}
+
+ .textAr{width: 100%;}
+ .BookNow{width: 100%;border-radius: 0px;}
+ .BookNow:hover{background-color: black;color: white;}
+  
+ 
+

@@ -1,0 +1,132 @@
+
+/*------------------ 1270px --------------------*/
+@media (max-width:1270px){ 
+
+   /* card */
+   .card{box-shadow: 0px 0px 4px black;width: 190px; }
+    
+
+}
+
+/*------------------ 1219px --------------------*/
+@media (max-width:1219px){ 
+
+    /* menu */
+    .menuSmImage{width: 90px;padding: 0px;}
+    .menuSmImage img{width: 100%;}
+     
+ 
+ }
+
+/*------------------ 1212px --------------------*/
+@media (max-width:1212px){ 
+
+    /* card */
+    .card{box-shadow: 0px 0px 4px black;width: 180px; }
+    .fontMak{
+        font-size: 40px;margin-top: 20px;margin-left: 20px;color: orange;margin-bottom: 1px;
+    }
+      /* zigzag */
+    .jio{font-size: 15px;}
+    .item1{font-size: 30px;margin-left: 5px; }
+    .item2{margin-top: 7px;margin-left: 10px;}
+    .exp{font-size: 14px;}
+ }
+
+ /*------------------ 1136px --------------------*/
+
+ @media (max-width:1136px){ 
+
+    /* card */
+     .cardSection{padding: 0px;}
+    
+     /* zigzag */
+     .aboL{font-size: 20px;}
+ }
+
+
+/*------------------ 1171px --------------------*/
+@media (max-width:1171px){
+     /* banner */
+    .EnjoyMeal,.deleciOu{font-size: 50px;color: white;}
+     
+}
+
+
+/*------------------ 1114px --------------------*/
+@media (max-width:1114px){
+    /* card */
+    .card{box-shadow: 0px 0px 4px black;width: 150px;height: 250px; }
+    .fontMak{font-size: 30px;}
+    .card-title{font-size: 17px;}
+    .card-text{font-size: 13px;}
+}
+
+/*------------------991px --------------------*/
+@media (max-width:991px){ 
+
+    /* navbar */
+    .navbar-collapse{background-color: rgb(66, 37, 37);display: flex;justify-content: center;padding-bottom: 20px;}
+    .navbar-collapse ul{margin:auto !important;}
+    .nav-item a {
+        text-align: center; 
+    }
+    .nav-item a { 
+        margin-left: 0px; 
+    }
+
+    /* card */
+    .card{box-shadow: 0px 0px 4px black;width: 180px;height: 250px; }
+    .fontMak{
+        font-size: 40px;margin-top: 20px;margin-left: 20px;color: orange;margin-bottom: 1px;
+    }
+    .card-title{font-size: 17px;}
+    .card-text{font-size: 13px;}
+
+    /* zigzag */
+   
+    .zigzagCon{display: flex;justify-content: center;}
+    .zigzagCon img{width: 75%;}
+    .expMasWrapper{display: flex;justify-content: center;}
+    .itemWr{width: 150px;border: 2px solid red;border-radius: 8px;}
+    .readMo{width: 100%;margin-top: 10px;}
+
+    
+    /* menu */
+    .menuWrap{text-align: center;}
+    .nBorde{border-bottom:1px solid red;margin-bottom: 10px;}
+    
+    /* footer */
+    .imagMet{width: 60%;}
+    .box1{text-align:center;}
+ }
+
+
+/*------------------ 767px --------------------*/
+@media (max-width:767px){
+      /* banner */
+      .banner{text-align: center;}
+      .adjIma{
+        display: flex;
+        justify-content: center;
+      }
+      .piop img{width: 60%;margin-top: 20px;}
+
+      /* footer */
+      .imagMet img{width: 100%;}
+    
+    /*  menu */
+    .lorem,.chicken,.doller{text-align: center;margin-top: 5px;}
+    .menuSmImage{margin-top: 40px;}
+}
+
+
+/*------------------ 575px --------------------*/
+
+/* zigzag image section */
+
+@media (max-width:575px){
+    .card{width: 100%;}
+ }
+
+ 
